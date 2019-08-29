@@ -46,4 +46,14 @@ El archivo creado será del tipo JAVA. Con el archivo creado se ingresa al promp
 
 ![Configuración Java para Windows 11](https://user-images.githubusercontent.com/54320247/63960946-42027900-ca55-11e9-87ca-20ca6807967a.jpg)
 
-Una vez abierto el prompt, se debe ingresar a la dirección donde se encuentra el archivo generado. Para ello se utiliza el comando cd, seguido del nombre de la carpeta que se desea ingresar. Se puede apoyar del comando dir para visualizar las carpetas disponibles. 
+Una vez abierto el prompt, se debe ingresar a la dirección donde se encuentra el archivo generado. Para ello se utiliza el comando cd, seguido del nombre de la carpeta que se desea ingresar y presionando enter. Se puede apoyar del comando dir para visualizar las carpetas disponibles. 
+
+![Configuración Java para Windows 12](https://user-images.githubusercontent.com/54320247/63960947-42027900-ca55-11e9-9002-642aaefa1621.jpg)
+
+Una vez ingresado en la carpeta correspondiente, para compilar el archivo JAVA se ingresa el comando javac seguido del nombre del archivo incluyendo la terminación .java, esto generará el archivo .class para correrlo en la máquina virtual.
+
+![Configuración Java para Windows 14](https://user-images.githubusercontent.com/54320247/63960951-429b0f80-ca55-11e9-9074-20ec41ea67b4.jpg)
+
+Finalmente se utiliza el comando java seguido del nombre del archivo esta vez sin extensión. Éste comando llamará a la máquina virtual de Java para ejecutar el programa desde el prompt.
+
+![Configuración Java para Windows 15](https://user-images.githubusercontent.com/54320247/63960952-429b0f80-ca55-11e9-92e0-45f4efb78259.jpg)
