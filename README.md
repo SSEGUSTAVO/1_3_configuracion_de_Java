@@ -7,5 +7,5 @@ El programa imprime Hello World en la consola de NetBeans y en prompt de Windows
 
 CONFIGURACIÓN DE WINDOWS
 
-<img src="https://drive.google.com/open?id=1HQ9TWKbdDumIbN9MTMCCaHVQ4FeJTxHm" />
+<img src="https://drive.google.com/open?id=1HEh7GqDdproTp_7H7GLuCbsUW1lD8VFB" />
 
