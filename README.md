@@ -6,6 +6,3 @@ El objetivo del proyecto es comprobar la correcta configuración de Java para Ne
 El programa imprime Hello World en la consola de NetBeans y en prompt de Windows.
 
 CONFIGURACIÓN DE WINDOWS
-
-(https://drive.google.com/open?id=1RpkUKHDDM4NFke5botwjalupwaW9aamn)
-
