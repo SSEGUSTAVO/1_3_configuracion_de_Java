@@ -30,3 +30,20 @@ En el cuadro "Editar variable de entorno" se selecciona la opción "Nuevo" y en 
 Una vez hecho eso, se da clic en "Nueva..." y se crea la variable "CLASSPATH" con el valor de variable ";" (punto y coma) y se da clic en Aceptar.
 
 ![Configuración Java para Windows 6](https://user-images.githubusercontent.com/54320247/63960942-4169e280-ca55-11e9-883d-53b75e4fa45f.jpg)
+
+Con esto ya se encuentra configurado Windows para la ejecución de los programas en prompt.
+
+COMPILACIÓN Y EJECUCIÓN DE PROGRAMAS JAVA
+
+Dado que se utilizará el prompt para trabajar con los programas en Java, el código debe escribirse en otra fuente, por ejemplo el bloc de notas.
+En el bloc de notas se escribe el programa que se desee. Una vez escrito este debe guardarse dando el formato con el nombre del archivo seguido de la extensión .java como: "HelloWorld.java".
+
+![Configuración Java para Windows 10](https://user-images.githubusercontent.com/54320247/63960945-42027900-ca55-11e9-88d3-34b6f7e15422.jpg)
+
+El archivo creado será del tipo JAVA. Con el archivo creado se ingresa al prompt colocando "cmd" en el buscador de aplicaciones de Windows.
+
+![Configuración Java para Windows 10 1](https://user-images.githubusercontent.com/54320247/63960944-42027900-ca55-11e9-915b-8f3a0c1b031b.jpg)
+
+![Configuración Java para Windows 11](https://user-images.githubusercontent.com/54320247/63960946-42027900-ca55-11e9-87ca-20ca6807967a.jpg)
+
+Una vez abierto el prompt, se debe ingresar a la dirección donde se encuentra el archivo generado. Para ello se utiliza el comando cd, seguido del nombre de la carpeta que se desea ingresar. Se puede apoyar del comando dir para visualizar las carpetas disponibles. 
